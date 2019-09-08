@@ -11,6 +11,7 @@ s2 = Students()
 # print(res)
 # s1.delete_std(6)
 
+
 rows = s1.get_all_std()
 for i in rows:
     print(i)
