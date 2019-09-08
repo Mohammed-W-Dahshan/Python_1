@@ -8,7 +8,7 @@ s1 = Students()
 #     print(i)
 # res = s1.update_attr(1,'age',21)
 # print(res)
-# s1.delete_std(5)
+# s1.delete_std(6)
 
 rows = s1.get_all_std()
 for i in rows:
