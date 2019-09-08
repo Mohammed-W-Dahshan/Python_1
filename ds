@@ -1,0 +1,29 @@
+[33mcommit 34083cd4f20375c73b9281e88a465dac6a15ed8d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Mohammed Dahshan <mhamad.dahshan98@gmail.com>
+Date:   Sun Sep 8 20:47:41 2019 +0300
+
+    add new line
+
+[33mcommit 5213cf99a03f61ebb9d9c80110d706a1344c3e69[m
+Author: Mohammed Dahshan <mhamad.dahshan98@gmail.com>
+Date:   Sun Sep 8 20:38:38 2019 +0300
+
+    add new std
+
+[33mcommit de5dbf69df6a3f14cd9db2d2209285fc03701f49[m
+Author: Mohammed Dahshan <mhamad.dahshan98@gmail.com>
+Date:   Sun Sep 8 20:28:05 2019 +0300
+
+    Rmove last record
+
+[33mcommit a7aeaceb5e87d2bb888fc851a1f36b2e64805f88[m
+Author: Mohammed Dahshan <mhamad.dahshan98@gmail.com>
+Date:   Sun Sep 8 19:54:26 2019 +0300
+
+    add new record to DB
+
+[33mcommit 9c950dd92b6cdf0c53a9d940849f8eefb63bf3df[m
+Author: Mohammed Dahshan <mhamad.dahshan98@gmail.com>
+Date:   Sun Sep 8 19:49:50 2019 +0300
+
+    first commit
